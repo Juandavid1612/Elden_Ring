@@ -4,7 +4,7 @@ Im a big fan of From Software so of course i had to play Elden Ring, and i loved
 
 ## Purpose 💡
 * Look the positive and bad aspects of this game
-* Discover the reasons players have to dislike this game
+* Discover the reasons players have to dislike Elden Ring
 
 ## Link to the Collab:
 https://colab.research.google.com/drive/1Kkqnlpl7c1Lfu4LAE36xex52Wczumgwz?usp=sharing
