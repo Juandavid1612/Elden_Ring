@@ -11,6 +11,6 @@ https://colab.research.google.com/drive/1Kkqnlpl7c1Lfu4LAE36xex52Wczumgwz?usp=sh
 
 ###  Hope you find it interesting or helpful ❤
 
-### Pages used:
+### Pages i used:
 * positive review from IGN : https://es.ign.com/elden-ring/179924/review/analisis-de-elden-ring-la-formula-souls-y-el-mundo-abierto-se-dan-la-mano-para-alcanzar-la-excelenci
 * Bad reviews from the users: https://www.metacritic.com/game/pc/elden-ring/user-reviews?dist=negativel
